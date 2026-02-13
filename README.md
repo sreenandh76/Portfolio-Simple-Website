@@ -23,7 +23,7 @@ This project represents my first step into web development.
 I created it to practice front-end fundamentals and improve my design skills.
 
 ## How to view
-You can access my portfolio website by visiting
+You can access my portfolio website by visiting https://sreenandh76.github.io/Portfolio-Simple-Website/
 
 ---
 
